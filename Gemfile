@@ -38,6 +38,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'pry-rails'
   gem 'rspec-rails'
+  gem 'devise_token_auth'
 end
 
 group :development do
